@@ -60,6 +60,15 @@ h1 {
 .button:hover {
   background: var(--base-color-alt);
 }
+
+.divider-1 {
+  height: 1px;
+  background: linear-gradient(
+    270deg,
+    #fa688d 0%,
+    rgba(204, 244, 230, 0.34) 100%
+  );
+}
 /* == LAYOUT ==*/
 
 #header {
